@@ -35,7 +35,7 @@ qr_bytes_limit=2953
 fixed_qr_images=12
 qr_dpi=1200
 qr_module_size=18 # default 3, 20 is huge
-montage_tile=3x4
+montage_tile=3x4 # COLxROW
 montage_filename=QR_montage.png
 
 # Prefix string for the PNG images that are produced
